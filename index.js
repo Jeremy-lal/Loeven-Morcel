@@ -1,5 +1,6 @@
 alert('This website is a reproduction of https://www.loevenmorcel.com/. I change some things.');
 
+
 document.addEventListener('scroll', () => {
 	const scroll = window.scrollY;
 	const img1 = document.getElementById('img1');
